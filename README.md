@@ -10,3 +10,9 @@ Create simple crud task
 # Missing
 - Toasts
 - User modul
+
+#Deployment
+
+- Tried to deploy on heroku but could not find the way to edit the env file to connect to postgres db
+
+https://efekt-digital.herokuapp.com/
